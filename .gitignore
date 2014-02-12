@@ -40,4 +40,7 @@ sessions/
 _build/
 fabfile.py
 
+# PyCharm
+.idea/
+
 .DS_Store
